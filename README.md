@@ -1,0 +1,1 @@
+# exercicio2_desafio_modalGR_leitura_arquivo_txt
